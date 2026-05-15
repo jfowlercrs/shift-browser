@@ -1,0 +1,59 @@
+{
+  "shifts": [
+    {
+      "id": "1",
+      "title": "ICU Night Shift",
+      "date": "2025-05-20",
+      "location": "Lincoln Medical Center",
+      "specialty": "ICU",
+      "status": "open",
+      "hourlyRate": 65
+    },
+    {
+      "id": "2",
+      "title": "ER Day Shift",
+      "date": "2025-05-21",
+      "location": "Omaha General",
+      "specialty": "ER",
+      "status": "open",
+      "hourlyRate": 70
+    },
+    {
+      "id": "3",
+      "title": "Pediatrics Evening",
+      "date": "2025-05-22",
+      "location": "Children's Hospital",
+      "specialty": "Pediatrics",
+      "status": "open",
+      "hourlyRate": 60
+    },
+    {
+      "id": "4",
+      "title": "ICU Day Shift",
+      "date": "2025-05-23",
+      "location": "Lincoln Medical Center",
+      "specialty": "ICU",
+      "status": "applied",
+      "hourlyRate": 65
+    },
+    {
+      "id": "5",
+      "title": "Oncology Night",
+      "date": "2025-05-24",
+      "location": "Cancer Care Center",
+      "specialty": "Oncology",
+      "status": "applied",
+      "hourlyRate": 75
+    },
+    {
+      "id": "6",
+      "title": "ER Night Shift",
+      "date": "2025-05-25",
+      "location": "Omaha General",
+      "specialty": "ER",
+      "status": "open",
+      "hourlyRate": 72
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
