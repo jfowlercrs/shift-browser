@@ -18,7 +18,8 @@ A shift browsing app build with React 18, TanStack Query TypeScript and CSS grid
  - json-server (mock API)
 
  ##Running locally
- \`\`\bash
+ \```bash
  npm install
  npm run dev
- \`\`\`" > README.md
+ npm run api
+ \```
